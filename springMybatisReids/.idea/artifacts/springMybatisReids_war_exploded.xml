@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="springMybatisReids:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/springMybatisReids_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="springMybatisReids/web/springMybatisReids" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="springMybatisReids" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
